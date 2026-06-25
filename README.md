@@ -48,7 +48,7 @@
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e6/f7/ee/e6f7ee084740b3221d00d0902618cd09.gif"/>
@@ -67,8 +67,7 @@
 
 ---
 
-<!-- STREAK -->
-## 🔥 Coding Streak
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7b/28/e0/7b28e06408ac1e88d09b6d997b2fc09e.jpg"/>
